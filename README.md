@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Documento Corregido</title>
+    <title>Mi Página con Imagen</title>
     <style>
         /* Ocultar el enlace generado por GitHub Pages */
         a[href*="github.io"] {
@@ -13,7 +13,7 @@
 </head>
 <body>
     <div>
-        <img alt="" src="ruta_de_la_imagen.jpg">
+        <img alt="Descripción de la imagen" src="ruta_de_la_imagen.jpg">
     </div>
 </body>
 </html>
