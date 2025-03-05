@@ -14,7 +14,7 @@
 </head>
 <body>
     <div>
-        <img alt="Descripción de la imagen" src="ruta_de_la_imagen.jpg">
+        <img alt= src="ruta_de_la_imagen.jpg">
     </div>
 </body>
 </html>
